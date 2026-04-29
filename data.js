@@ -391,77 +391,69 @@ modulesData =
                     {
                         "id": "a",
                         "name": "CW1",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Oct 9"
                     },
                     {
                         "id": "b",
                         "name": "CW2",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Oct 16"
                     },
                     {
                         "id": "c",
                         "name": "CW3",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Oct 23"
                     },
                     {
                         "id": "d",
                         "name": "CW4",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Oct 30"
                     },
                     {
                         "id": "e",
                         "name": "CW5",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Nov 6"
                     },
                     {
                         "id": "f",
                         "name": "CW6",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Nov 13"
                     },
                     {
                         "id": "g",
                         "name": "CW7",
-                        "type": "project",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.024,
+                        "weight": 0.028,
                         "date": "Nov 20"
                     },
                     {
                         "id": "h",
-                        "name": "CW8",
-                        "type": "project",
-                        "maxScore": 100,
-                        "weight": 0.024,
-                        "date": "Nov 27"
-                    },
-                    {
-                        "id": "i",
                         "name": "Reflecton",
                         "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.008,
+                        "weight": 0.0031,
                         "date": "Dec 4"
                     },
                     {
-                        "id": "j",
+                        "id": "i",
                         "name": "Software Engineering Design Final",
                         "type": "test",
                         "maxScore": 100,
@@ -573,24 +565,48 @@ modulesData =
             },
             {
                 "id": 5,
-                "name": "50006 - Compilers",
+                "name": "50013 - Machine Learning",
                 "credits": 5,
                 "tasks": [
                     {
                         "id": "a",
-                        "name": "Practical",
-                        "type": "project",
+                        "name": "CW: Decision Trees and Evaluation",
+                        "type": "cw",
                         "maxScore": 100,
-                        "weight": 0.2,
-                        "date": "?"
+                        "weight": 0.075,
+                        "date": "27 Jan"
                     },
                     {
                         "id": "b",
+                        "name": "CW: Neural Networks",
+                        "type": "cw",
+                        "maxScore": 100,
+                        "weight": 0.075,
+                        "date": "18 Feb"
+                    },
+                    {
+                        "id": "c",
+                        "name": "CW: Convolutional Neural Networks",
+                        "type": "cw",
+                        "maxScore": 100,
+                        "weight": 0.075,
+                        "date": "24 Feb"
+                    },
+                    {
+                        "id": "d",
+                        "name": "CW: Unsupervised Learning",
+                        "type": "cw",
+                        "maxScore": 100,
+                        "weight": 0.075,
+                        "date": "3 Mar"
+                    },
+                    {
+                        "id": "e",
                         "name": "Compilers Final",
                         "type": "test",
                         "maxScore": 100,
-                        "weight": 0.8,
-                        "date": "?"
+                        "weight": 0.7,
+                        "date": "8 May"
                     }
                 ]
             },
